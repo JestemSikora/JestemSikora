@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **"My-....-Implementation" it's a series of mini-projects, that I used in my ML journey. It has important notes, my implementation and implementation from libraries. If you want handy comprehention of ML algorithms, feel free to use it! - (It's not 100% ready)**
 
-- ⚡ Fun fact: Also, my intrests are philosophy (my favourite is theology), going to the gym, politcs and sometimes sketching portraits
+- ⚡ Fun fact: Besides coding and math, I'm intrested in philosophy (my favourite is theology), going to the gym, politcs and sometimes sketching portraits
 
 - 🚨 Becaouse of my hobbies, I may seem introverted but in reality I am very open to people :p
 
