@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: Also, my intrests are philosophy (my favourite is theology), going to the gym, politcs and sometimes, sketching portraits
 
-- 🚨 HOWEVER! I may seem introverted but in reality I am very open to people
+- 🚨 I may seem introverted but in reality I am very open to people :p
 
 <p align="left">
 </p>
