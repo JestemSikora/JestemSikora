@@ -1,7 +1,12 @@
-<h1 align="center">Howdy 😗, I'm Wiktoria!</h1>
+<h1 align="center">Howdy 😗, I'm Wiktoria! ପ(๑•ᴗ•๑)ଓ ♡</h1>
 <h3 align="center">A passionate nerd, who recently got into Data Science world. I like to write code and solve real life problems using ML and AI! 🥞</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on: **"My-...." that's my personal tools, that I used in my ML journey. It has important notes, my implementation and implementation from libraries. If you want handy comprehention of ML algorithms, feel free to use it! - (It's not 100% ready)**
+
+- ⚡ Fun fact: Also, my intrests are philosophy (my favourite is theology), going to the gym, politcs and sometimes, sketching portraits
+
+- 🚨 HOWEVER! I may seem introverted but in reality I am very open to people
+
 <p align="left">
 </p>
 
