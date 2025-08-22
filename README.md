@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on: **"My-...." that's my personal tools, that I used in my ML journey. It has important notes, my implementation and implementation from libraries. If you want handy comprehention of ML algorithms, feel free to use it! - (It's not 100% ready)**
 
-- ⚡ Fun fact: Also, my intrests are philosophy (my favourite is theology), going to the gym, politcs and sometimes, sketching portraits
+- ⚡ Fun fact: Also, my intrests are philosophy (my favourite is theology), going to the gym, politcs and sometimes sketching portraits
 
-- 🚨 I may seem introverted but in reality I am very open to people :p
+- 🚨 Becaouse of my hobbies, I may seem introverted but in reality I am very open to people :p
 
 <p align="left">
 </p>
