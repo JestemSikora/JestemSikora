@@ -1,11 +1,7 @@
 <h1 align="center">Howdy 😗, I'm Wiktoria! ପ(๑•ᴗ•๑)ଓ ♡</h1>
-<h3 align="center">A passionate nerd, who recently got into Data Science world. I like to write code and solve real life problems using ML and AI! 🥞</h3>
+<h3 align="center">A passionate nerd, who got into Data Science world. I like to write code and solve real life problems using ML and AI 🥞</h3>
 
-- 🔭 I’m currently working on: **"My-....-Implementation" it's a series of mini-projects, that I used in my ML journey. It has important notes, my implementation and implementation from libraries. If you want handy comprehention of ML algorithms, feel free to use it! - (It's not 100% ready)**
-
-- ⚡ Fun fact: Besides coding and math, I'm intrested in philosophy (my favourite is theology), going to the gym, politcs and sometimes sketching portraits
-
-- 🚨 Becaouse of my hobbies, I may seem introverted but in reality I am very open to people :p
+- 🔭 I’m currently working on: **newyork-route-optimization**
 
 <p align="left">
 </p>
